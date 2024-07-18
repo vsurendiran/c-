@@ -1,0 +1,11 @@
+Class is a containter will also have data and methods
+Ex.  Make, model, color => attributes
+     start(), move() => methods
+
+
+Namespace is container for related classes.
+
+Assembly is container for related namespaces
+
+Application => group of Assembly
+
